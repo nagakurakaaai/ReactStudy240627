@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "utf-8";
 
 /*--------------------------------
  全体
@@ -63,6 +63,7 @@ img {
 .globalNav ul {
   display: flex;
   justify-content: center;
+  padding-left: 0; /* 追記 */
 }
 
 .globalNav ul li {
@@ -70,6 +71,7 @@ img {
   line-height: 1;
   letter-spacing: 0.1em;
   margin-right: 80px;
+  list-style: none; /* 追記 */
 }
 
 .globalNav ul li:last-child {
