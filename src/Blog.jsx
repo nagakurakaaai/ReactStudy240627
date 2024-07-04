@@ -17,7 +17,7 @@ function Blog() {
     thumbnail05,
     thumbnail06,
   ]
-{/*  */}
+
   const json = [
     {"alt" : "青いトラック", "title" : "コーヒーカー始めました。", "date" : "2030.08.08" },
     {"alt" : "牛乳", "title" : "濃厚クリーミーなミルクをどうぞ", "date" : "2030.08.05" },
